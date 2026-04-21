@@ -10,7 +10,7 @@ Original file is located at
 import pandas as pd
 
 import pandas as pd
-df = pd.read_csv('/content/Salary_Data.csv')
+df = pd.read_csv('Salary_Data.csv')
 display(df.head())
 
 # Check for missing values
